@@ -1,6 +1,6 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        prevMap = {}   # value : index
+        prevMap = {}  
         
         for i, n in enumerate(nums):
             diff = target - n
