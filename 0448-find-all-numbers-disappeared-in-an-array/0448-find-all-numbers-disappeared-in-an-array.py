@@ -1,15 +1,10 @@
 class Solution(object):
     def findDisappearedNumbers(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: List[int]
-        """
-        n = len(nums)
-        num_set = set(nums)
+        s = set(nums)
+        res = []
         
-        result = []
-        for i in range(1, n+1):
-            if i not in num_set:
-                result.append(i)
+        for i in range(1, len(nums) + 1):
+            if i not in s:
+                res.append(i)
                 
-        return result
+        return res
