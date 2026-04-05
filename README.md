@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## Dynamic Programming
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
