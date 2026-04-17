@@ -11,17 +11,12 @@ class Solution(object):
         :type subRoot: Optional[TreeNode]
         :rtype: bool
         """
-        if not root:
-            return False
+        def serialize(node):
+            if not node:
+                return "#"
+            return "," + str(node.val) + serialize(node.left) + serialize(node.right)
         
-        if self.isSameTree(root, subRoot):
-            return True
-        return self.isSubtree(root.left, subRoot) or self.isSubtree(root.right, subRoot)
-
-    def isSameTree(self, p, q):
-        if not p and not q:
-            return True
-        if not p or not q or p.val != q.val:
-            return False
+        root_str = serialize(root)
+        sub_str = serialize(subRoot)
         
-        return self.isSameTree(p.left, q.left) and self.isSameTree(p.right, q.right)
+        return sub_str in root_str
