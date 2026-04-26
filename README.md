@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
