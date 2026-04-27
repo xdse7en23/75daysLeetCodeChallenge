@@ -6,6 +6,5 @@ class Solution(object):
         """
         result = 0
         for num in nums:
-            result ^= num
-            
+            result ^= num   
         return result
