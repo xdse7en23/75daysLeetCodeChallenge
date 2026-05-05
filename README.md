@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0136-single-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
