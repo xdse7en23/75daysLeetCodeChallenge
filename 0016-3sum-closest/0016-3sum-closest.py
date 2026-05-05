@@ -7,24 +7,23 @@ class Solution(object):
         """
         nums.sort()
         n = len(nums)
-        closest_sum = float('inf')
+        closest_sum = nums[0] + nums[1] + nums[2]
         
         for i in range(n - 2):
-            if i > 0 and nums[i] == nums[i-1]:
+            if i > 0 and nums[i] == nums[i - 1]:
                 continue
-                
-            l, r = i + 1, n - 1
-            while l < r:
-                s = nums[i] + nums[l] + nums[r]
-                if s == target:
-                    return s
-                
-                if abs(s - target) < abs(closest_sum - target):
-                    closest_sum = s
-                
-                if s < target:
-                    l += 1
+            
+            left, right = i + 1, n - 1
+            
+            while left < right:
+                current_sum = nums[i] + nums[left] + nums[right]
+                if current_sum == target:
+                    return current_sum
+                if abs(current_sum - target) < abs(closest_sum - target):
+                    closest_sum = current_sum
+                if current_sum < target:
+                    left += 1
                 else:
-                    r -= 1
+                    right -= 1
                     
         return closest_sum
