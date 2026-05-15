@@ -11,13 +11,15 @@ class Solution(object):
         """
         if not head:
             return None
+            
+        curr = head
+        nxt = curr.next
         
-        current = head
-        
-        while current and current.next:
-            if current.val == current.next.val:
-                current.next = current.next.next
+        while nxt:
+            if curr.val == nxt.val:
+                curr.next = nxt = nxt.next
             else:
-                current = current.next
+                curr = nxt
+                nxt = nxt.next
                 
         return head
