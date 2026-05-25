@@ -1,4 +1,4 @@
-import heapq
+import bisect
 
 class Solution(object):
     def lastStoneWeight(self, stones):
@@ -7,16 +7,14 @@ class Solution(object):
         :rtype: int
         """
      
-        max_heap = [-s for s in stones]
-        heapq.heapify(max_heap)
+        stones.sort()
         
-        while len(max_heap) > 1:
-            stone1 = heapq.heappop(max_heap)
-            stone2 = heapq.heappop(max_heap)
-      
+        while len(stones) > 1:
+            stone1 = stones.pop()
+            stone2 = stones.pop()
             if stone1 != stone2:
-             
-                heapq.heappush(max_heap, stone1 - stone2)
+                diff = stone1 - stone2
                 
-    
-        return -max_heap[0] if max_heap else 0
+                bisect.insort(stones, diff)
+                
+        return stones[0] if stones else 0
