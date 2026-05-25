@@ -10,13 +10,26 @@ class Solution(object):
         :type headA, headB: ListNode
         :rtype: ListNode
         """
-        if not headA or not headB:
-            return None
-
-        pA = headA
-        pB = headB
-
-        while pA is not pB:
-            pA = pA.next if pA else headB
-            pB = pB.next if pB else headA
-        return pA
+        lenA, lenB = 0, 0
+        currA, currB = headA, headB
+        
+        while currA:
+            lenA += 1
+            currA = currA.next
+            
+        while currB:
+            lenB += 1
+            currB = currB.next
+        currA, currB = headA, headB
+        
+        if lenA > lenB:
+            for _ in range(lenA - lenB):
+                currA = currA.next
+        else:
+            for _ in range(lenB - lenA):
+                currB = currB.next
+        while currA is not currB:
+            currA = currA.next
+            currB = currB.next
+            
+        return currA
