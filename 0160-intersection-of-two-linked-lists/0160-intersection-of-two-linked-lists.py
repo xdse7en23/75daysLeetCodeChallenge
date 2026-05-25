@@ -15,8 +15,8 @@ class Solution(object):
 
         pA = headA
         pB = headB
+
         while pA is not pB:
-            pA = headB if pA is None else pA.next
-            
-            pB = headA if pB is None else pB.next
+            pA = pA.next if pA else headB
+            pB = pB.next if pB else headA
         return pA
