@@ -1,5 +1,3 @@
-import heapq
-
 class Solution(object):
     def findKthLargest(self, nums, k):
         """
@@ -7,11 +5,15 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        min_heap = nums[:k]
-        heapq.heapify(min_heap)
+        MIN_VAL = -10000
+        MAX_VAL = 10000
         
-        for num in nums[k:]:
-            if num > min_heap[0]:
-                heapq.heappushpop(min_heap, num)
-                
-        return min_heap[0]
+        count_bucket = [0] * (MAX_VAL - MIN_VAL + 1)
+        
+        for num in nums:
+            count_bucket[num - MIN_VAL] += 1
+        
+        for i in range(len(count_bucket) - 1, -1, -1):
+            k -= count_bucket[i]
+            if k <= 0:
+                return i + MIN_VAL
