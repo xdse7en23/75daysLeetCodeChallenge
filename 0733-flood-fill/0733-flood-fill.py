@@ -1,30 +1,20 @@
 class Solution(object):
     def floodFill(self, image, sr, sc, color):
-        """
-        :type image: List[List[int]]
-        :type sr: int
-        :type sc: int
-        :type color: int
-        :rtype: List[List[int]]
-        """
         initial_color = image[sr][sc]
-        
         if initial_color == color:
             return image
             
         ROWS = len(image)
         COLS = len(image[0])
+        stack = [(sr, sc)]
         
-        def dfs(r, c):
-            if r < 0 or r >= ROWS or c < 0 or c >= COLS or image[r][c] != initial_color:
-                return
+        while stack:
+            r, c = stack.pop()
+            if image[r][c] == initial_color:
+                image[r][c] = color
+                if r > 0: stack.append((r - 1, c))
+                if r < ROWS - 1: stack.append((r + 1, c))
+                if c > 0: stack.append((r, c - 1))
+                if c < COLS - 1: stack.append((r, c + 1))
                 
-            image[r][c] = color
-            
-            dfs(r - 1, c)
-            dfs(r + 1, c)
-            dfs(r, c - 1)
-            dfs(r, c + 1)
-            
-        dfs(sr, sc)
         return image
