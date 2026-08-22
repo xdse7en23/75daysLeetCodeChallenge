@@ -1,3 +1,9 @@
+#include <vector>
+#include <stack>
+#include <algorithm>
+
+using namespace std;
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
@@ -9,22 +15,31 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+static const int fast_io = []() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    return 0;
+}();
 
 class Solution {
 public:
-    void solve(TreeNode* root, vector<int>& ans) {
-        if (root == NULL) {
-            return;
-        }
-        solve(root->left, ans);
-        solve(root->right, ans);
-        
-        ans.push_back(root->val);
-    }
-
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> ans; 
-        solve(root, ans);
+        if (root == NULL) return {};
+
+        vector<int> ans;
+        stack<TreeNode*> st;
+        st.push(root);
+
+        while (!st.empty()) {
+            TreeNode* curr = st.top();
+            st.pop();
+            
+            ans.push_back(curr->val);
+            if (curr->left) st.push(curr->left);
+            if (curr->right) st.push(curr->right);
+        }
+        reverse(ans.begin(), ans.end());
+        
         return ans;
     }
 };
