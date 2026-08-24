@@ -1,5 +1,5 @@
-#include <vector>
 #include <iostream>
+#include <cstring>
 
 using namespace std;
 static const int fast_io = []() {
@@ -11,9 +11,11 @@ static const int fast_io = []() {
 class Solution {
 public:
     int countPrimes(int n) {
-        if (n <= 2) return 0; 
-        int count = 1; 
-        vector<bool> isPrime(n, true);
+        if (n <= 2) return 0;
+        bool* isPrime = new bool[n];
+        memset(isPrime, true, n);
+
+        int count = 1;
         for (int i = 3; i * i < n; i += 2) {
             if (isPrime[i]) {
                 for (int j = i * i; j < n; j += 2 * i) {
@@ -26,6 +28,7 @@ public:
                 count++;
             }
         }
+        delete[] isPrime;
 
         return count;
     }
