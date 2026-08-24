@@ -1,7 +1,4 @@
-SELECT DISTINCT p1.email AS Email
-FROM Person p1
-WHERE EXISTS (
-    SELECT 1 
-    FROM Person p2 
-    WHERE p1.email = p2.email AND p1.id < p2.id
-);
+SELECT email AS Email
+FROM Person
+GROUP BY 1
+HAVING COUNT(*) > 1;
