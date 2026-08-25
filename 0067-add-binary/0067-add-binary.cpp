@@ -1,6 +1,6 @@
 #include <string>   
 #include <algorithm> 
-using namespace std; 
+using namespace std;
 
 class Solution {
 public:
@@ -9,11 +9,11 @@ public:
         
         int i = a.length() - 1;
         int j = b.length() - 1; 
-        int carry = 0;    
+        int carry = 0;         
         
         while (i >= 0 || j >= 0 || carry == 1) {
             
-            int sum = carry; 
+            int sum = carry;
             
             if (i >= 0) {
                 sum += a[i] - '0'; 
@@ -28,6 +28,6 @@ public:
         }
         reverse(result.begin(), result.end());
         
-        return result; 
+        return result;
     }
 };
