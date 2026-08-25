@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0204-count-primes](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0204-count-primes) |
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0136-single-number) |
 ## Union-Find
 |  |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
