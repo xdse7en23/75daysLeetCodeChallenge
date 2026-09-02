@@ -1,0 +1,16 @@
+class Solution {
+public:
+    int minimumTotal(vector<vector<int>>& triangle) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
+
+        int n = triangle.size();
+        vector<int> dp = triangle[n - 1];
+        for (int row = n - 2; row >= 0; --row) {
+            for (int col = 0; col <= row; ++col) {
+                dp[col] = triangle[row][col] + min(dp[col], dp[col + 1]);
+            }
+        }
+        return dp[0];
+    }
+};
