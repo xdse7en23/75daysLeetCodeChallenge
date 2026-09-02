@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -359,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0136-single-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
 |  |
 | ------- |
