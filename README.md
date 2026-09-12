@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0322-coin-change) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0621-task-scheduler](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Graph Theory
 |  |
