@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
