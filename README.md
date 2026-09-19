@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0075-sort-colors) |
