@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0394-decode-string](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/xdse7en23/75daysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Tree
